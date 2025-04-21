@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/singhdeveloper1" target="blank"><img src="https://img.shields.io/twitter/follow/singhdeveloper1?logo=twitter&style=for-the-badge" alt="singhdeveloper1" /></a> </p>
 
 -  I’m currently enhancing my skills in **MERN Stack**
+-  Bridging *Frontend* and *Backend* Technologies
 
 
 
